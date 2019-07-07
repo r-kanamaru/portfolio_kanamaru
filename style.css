@@ -54,6 +54,22 @@ body {
   background-color: #f1b400;
 }
 
+.prof-box{
+	display: box; /* 標準 */
+	display: -webkit-box; /* Safari,Google Chrome */
+	display: -moz-box; /* Firefox */
+  display: -ms-flexbox; /* IE */
+  width: 600px;
+  margin: 30px auto;
+  line-height: 2.5;
+  text-align: left;
+}
+.prof-image{
+background-color: #f1b400;
+margin-left: 100px;
+height:100px;
+}
+
 .about {
   min-height: 100vh;
   padding: 80px 30px;
