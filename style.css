@@ -79,7 +79,7 @@ body {
 }
 
 .works {
-  height: 100vh;
+  min-height: 650px;
   background-color: rgba(100, 100, 100, 0.7);
   padding: 80px 0 10px;
 }
@@ -99,7 +99,7 @@ body {
   display: block;
   width: 100%;
   max-width: 300px;
-  min-height:180px;
+  height:180px;
 }
 
 .work-description {
