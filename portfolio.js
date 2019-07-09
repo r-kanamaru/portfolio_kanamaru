@@ -1,8 +1,5 @@
 $(function(){
 
-  $(window).on('load scroll', function(){
-
-
-  });
+$('.site-title').hide().fadeIn(5000);
 
 });
