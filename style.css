@@ -27,7 +27,10 @@ body {
   font-size: 4.5rem;
   font-family: impact;
 }
-
+.portfolio_link{
+  text-decoration:none;
+  color:#fff;
+}
 .site-description {
   margin-bottom: 50px;
   color: #888;
